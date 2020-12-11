@@ -1,1 +1,1 @@
-# Rock-paper-scissors
+# Creating the Rock-paper-scissors game
